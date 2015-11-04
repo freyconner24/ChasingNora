@@ -4,6 +4,7 @@ var Website = React.createClass({
       <div className='classWebsite'>
         <Header />
         <SplashPic />
+        <GrandfatherEP />
         <GrandfatherVideo5 />
         <GrandfatherVideo4 />
         <GrandfatherVideo3 />

@@ -1,7 +1,10 @@
 var GrandfatherEP = React.createClass({displayName: "GrandfatherEP",
   render: function() {
     return (
-        React.createElement("div", {className: "row block darkBlueBack"}, 
+        React.createElement("div", {className: "row block darkBlueBack white textCenter bigBelle"}, 
+            React.createElement("div", {className: "marvinsRoom"}, 
+                "grandfather (november 3rd, 2015)"
+            ), 
             React.createElement("div", {className: "col-sm-6"}, 
                 React.createElement("div", {className: "innerBlock"}, 
                     React.createElement("div", {className: "grandfatherCover"})

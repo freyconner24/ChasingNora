@@ -5,13 +5,13 @@ var Website = React.createClass({
         <Header />
         <SplashPic />
         <GrandfatherEP />
+        <DownloadGrandfather />
         <GrandfatherVideo5 />
         <GrandfatherVideo4 />
         <GrandfatherVideo3 />
         <GrandfatherVideo2 />
         <GrandfatherVideo />
         <HairCut />
-        <AlbumRelease />
         <Gallery />
         <MarvinsRoom />
         <ChasingNoraPic1 />

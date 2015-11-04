@@ -21,5 +21,3 @@ var Footer = React.createClass({
     );
   }
 });
-
-

@@ -3,7 +3,7 @@ var GrandfatherEP = React.createClass({
     return (
         <div className='row block darkBlueBack white textCenter bigBelle'>
             <div className='marvinsRoom'>
-                grandfather (november 3rd, 2015)
+                grandfather (november 4th, 2015)
             </div>
             <div className='col-sm-6'>
                 <div className='innerBlock'>
@@ -13,7 +13,7 @@ var GrandfatherEP = React.createClass({
             <div className='col-sm-6'>
                 <div className='innerBlock'>
                     <div className='soundcloudGrandfather'>
-                        <iframe width="100%" height="100%" scrolling="yes" frameBorder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/157970444&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+                        <iframe width="100%" height="100%" scrolling="yes" frameBorder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/157970444&amp;color=ff5500&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
                     </div>
                 </div>
             </div>
